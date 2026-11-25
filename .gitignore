@@ -1,0 +1,26 @@
+# Mídias pesadas de produção (renderizações, áudios brutos e projetos de edição)
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aup3
+*.drp
+
+# Pastas temporárias e de cache
+tmp/
+temp/
+cache/
+producao/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de ambiente / chaves locais
+.env
+.env.local
