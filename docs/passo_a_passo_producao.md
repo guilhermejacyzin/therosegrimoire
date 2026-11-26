@@ -21,7 +21,7 @@ Crie uma pasta dedicada fora do repositório Git, em `D:\producao_rose_grimoire\
 2. Copie o **Prompt de Direção Vocal** oficial de [`docs/biblia_da_persona.md`](./biblia_da_persona.md) no campo *Style instructions*.
 3. Cole apenas o **Texto Limpo** do roteiro no campo de texto.
 4. **No Short #01 (uma única vez):** Teste 2–3 vozes femininas de timbre grave-médio, firme e elegante (nunca aguda nem infantil). Escolha a que melhor traduz a **Guerreira Aristocrata** e anote o nome exato dela em `docs/biblia_da_persona.md` — ela será para sempre a voz oficial de **`The Rose Grimoire`**.
-5. Ouça com fone de ouvido (verifique dicção de signos, arcanos e duração entre `48s` e `56s`) e baixe o `.wav` em `01_audio/`.
+5. Ouça com fone de ouvido (verifique dicção de signos, termos astrológicos e duração entre `1min35s` e `1min55s` — teto de 2 minutos) e baixe o `.wav` em `01_audio/`.
 
 ---
 
@@ -50,3 +50,21 @@ Crie uma pasta dedicada fora do repositório Git, em `D:\producao_rose_grimoire\
 1. **YouTube Shorts:** Suba o `.mp4` limpo, preencha Título + Descrição SEO, conecte o **Vídeo Relacionado** ao Vídeo Longo da semana e fixe o comentário provocativo na voz dela.
 2. **TikTok:** Suba o **mesmo `.mp4` limpo** (nunca baixe de uma rede com marca d'água para subir na outra!), use a legenda curta com 4–5 hashtags direcionadas (`#astrologia #tarot #baralhocigano #previsaododia #therosegrimoire`).
 3. **Facebook Reels:** Suba o **mesmo `.mp4` limpo** na Página oficial de **`The Rose Grimoire`** com texto acolhedor + convite para salvar e comentar o signo/energia do dia.
+
+---
+
+## PASSO 5 — Padrão Oficial de Estúdio Automatizado v3 (VALIDADO & TRAVADO em 26/11/2026)
+
+Em vez de editar do zero no CapCut, o estúdio local em `D:\producao_rose_grimoire\` já tem pipeline cinematográfico próprio em Python + FFmpeg (`compose_audio_v3_cosmos.py` + `render_teste_piloto_v2.py`) aprovado no Mini-Piloto v3:
+
+1. **Voz Oficial (`gemini-3.8-flash-tts`):** **`Aoede`**, sempre higienizada automaticamente com `faster-whisper` (para remover qualquer leitura acidental de instruções) e alinhada palavra por palavra em JSON (`aligned_*.json`).
+2. **Dramaturgia Obrigatória:** **Modo Consulta Particular** — Dona Rosa sentada à mesa falando olho no olho com o espectador como seu **consulente** (zero palestra/aula impessoal; 100% Astrologia Tradicional dos 7 Astros + vitrine plural blindada).
+3. **Trilha Sonora Oficial (100% Autoral, 0% Copyright / Content ID):** **Suíte Cósmica *Strobe (Deadmau5) × Interstellar (Hans Zimmer)*** (`48 kHz Estéreo` — arpejo hipnótico de piano abafado em relógio cósmico + *plucks* analógicos quentes com delay *ping-pong* estéreo + órgão de tubos crescendo nas viradas de ato + reverb de catedral + sino de bronze europeu sincronizado à vinheta).
+4. **Mixagem Travada (Ponto Doce Aprovado):**
+   - Voz da **`Aoede`** centralizada em **`~ -14,0 dBFS RMS`**;
+   - Trilha Cósmica Estéreo em **`~ -26,7 dBFS RMS`** (**gap de `12,5–13,5 dB`** abaixo da voz);
+   - EQ de bolso vocal (`-4,5 dB` suave em `2,25 kHz`) + *mid-side ducking* aveludado (recua no centro durante a fala e respira para cima nas pausas dramáticas).
+5. **Direção Visual Dinâmica (`16:9` e `9:16` nativos com hash distinto para blindagem TikTok):**
+   - Cortes cinematográficos rápidos (`~3–4s` por batida visual) entre cenas limpas sem texto/sem crânios, com transições de clarão dourado de vela, respiração suave de câmera, luz volumétrica e partículas em 2 camadas de *parallax*;
+   - **`16:9` (Vídeo Médio `~10 min`, estreia `19:45 BRT` D-1):** Fólio Dourado com **Astrolábio Monumental Vivo** (12 casas romanas + 7 Astros + feixes de aspecto desenhando-se ao vivo), **Relógio Celeste do Dia (`00h–24h`)**, **Live Voice Waveform**, citações editoriais e **Vinheta Animada Lower-Third** (`Curtir` + `Inscrever-se → Inscrito • Ativo` + Sino dourado balançando + `Salve & Compartilhe`);
+   - **`9:16` (Shorts até `2 min`, TikTok 15 min antes de YT/FB):** Legendas cinéticas com *spring-pop* + *glow* real (sem tarja cinza quadrada), **Live Voice Waveform** acima da legenda e selo CTA com sino na zona segura inferior.

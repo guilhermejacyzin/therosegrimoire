@@ -40,7 +40,7 @@ therosegrimoire/
 │   ├── pesquisa_rosa_caveira.md               # Dossiê completo (Quimbanda → Umbanda → Candomblé → Demais Cultos)
 │   └── tratado_historico_cientifico.md        # Pesquisa acadêmica (Santo Ofício, Arqueologia Congo/BR, Filologia, 14 Mulheres)
 ├── templates/
-│   ├── template_short_diario.md               # Molde de Previsão Diária (45–60s — Shorts, TikTok e Reels)
+│   ├── template_short_diario.md               # Molde de Previsão Diária (até 2 min — Shorts, TikTok e FB)
 │   ├── template_longo_previsao.md             # Molde de Vídeo Longo (Previsão Semanal/Mensal pelos 5 Campos)
 │   └── template_longo_dossie.md               # Molde de Vídeo Longo (Feitiçaria Ibérica, Grimórios, Ervas, Pedras & Oráculos)
 ├── pt-br/

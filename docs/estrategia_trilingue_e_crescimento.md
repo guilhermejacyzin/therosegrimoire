@@ -66,7 +66,7 @@ Não basta "traduzir palavras" — cada bloco linguístico consome **astrologia,
 ## 4. Fluxo Prático da Onda 1 (PT-BR + ES Desde o Dia 1 em ~35 min/dia)
 
 1. **Roteiro Único + Adaptação Nativa (10 min):** Checar a efeméride real do dia + carta na mesa → escrever `pt-br/shorts/XXX.md` e localizar imediatamente `es/shorts/XXX.md` (ajustando expressões, ritmo e loop gramatical para o espanhol!).
-2. **Duas Vozes no Gemini TTS (5 min):** Gerar `voz_pt.wav` e `voz_es.wav` (mesma duração alvo `~50–55s` para os cortes visuais casarem nos dois idiomas!).
+2. **Duas Vozes no Gemini TTS (5 min):** Gerar `voz_pt.wav` e `voz_es.wav` (mesma duração alvo `~1min40s–1min55s` — teto de 2 minutos — para os cortes visuais casarem nos dois idiomas e destravar monetização >60s no TikTok!).
 3. **1 Edição Visual no CapCut (15 min):**
    - Montar a linha do tempo visual **limpa** (cartas, glifos, cenas de biblioteca, B-roll) em sincronia com `voz_pt.wav` → exportar **1 versão limpa sem legendas queimadas** para o **YouTube Shorts (subindo PT-BR + ES no MLA + `.srt` PT e ES!)**;
    - Ativar legendas cinéticas **PT-BR** → exportar `short_XX_pt.mp4` para **TikTok PT-BR + Facebook PT-BR**;

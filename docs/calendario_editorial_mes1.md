@@ -17,7 +17,7 @@ Todos ancorados nas **efemérides reais da data** + **1 carta real (Tarot ou Bar
 
 ---
 
-## Vídeos Longos do Mês 1 (8 Vídeos — YouTube 16:9, 8 a 14 min)
+## Vídeos Longos do Mês 1 (8 Vídeos — YouTube 16:9, até 18 min)
 
 ### Semana 1 — Estreia & Autoridade
 1. **Longo #01 (Domingo — Previsão Semanal Completa):**

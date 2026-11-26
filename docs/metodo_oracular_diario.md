@@ -27,12 +27,12 @@ Antes de escrever qualquer linha, checar os dados astronômicos/astrológicos re
   - *Domingo:* Sol (liderança, visibilidade, vitalidade, poder central)
 
 ### Engrenagem 2 — A Mesa Oracular (Tarot + Baralho Cigano)
-Cruzar o trânsito real do dia com **1 carta-guia** (nos Shorts de 45–60s) ou **tiragem estruturada de 5–7 cartas** (nos Vídeos Longos):
+Cruzar o trânsito real do dia com **1 carta-guia** (nos Shorts de até 2 minutos — na Fase 2, após a consolidação da Astrologia) ou **tiragem estruturada de 5–7 cartas** (nos Vídeos Longos de até 18 minutos):
 - **Tarot (78 arcanos):** Mostra a psicologia profunda, o arquétipo do poder, o conflito invisível e o destino estrutural.
 - **Baralho Cigano (36 cartas — Petit Lenormand):** Mostra o **fato concreto e imediato** da vida material (dinheiro entrando/saindo, mensagem, traição, viagem, contrato, saúde/desgaste, corte).
 
 ### Engrenagem 3 — Os 5 Campos da Vida Real (Com Pulso da Guerreira Aristocrata)
-- **Nos Shorts Diários (45–60s):** Escolher o **Pulso Geral do Dia + 2 a 3 Campos em Destaque** (rotacionando ao longo da semana para que todos os campos sejam cobertos com ritmo rápido e retenção >80%!).
+- **Nos Shorts Diários (até 2 minutos — alvo `1min35s` a `1min55s`):** Graças ao teto de 2 minutos, já podemos cobrir o **Pulso Geral + todos os 5 Campos Reais de forma cirúrgica** (dando destaque principal a 2 campos do dia) + **Horas Planetárias limpas** + **Chave do Grimório**, destravando retenção profunda no YouTube Shorts e elegibilidade acima de 60s no TikTok Creator Rewards!
 - **Nos Vídeos Longos de Previsão (Semanal / Mensal / Lunações):** Cobrir sistematicamente **TODOS os 5 Campos** em capítulos claros:
   1. **Política, Mundo & Clima Coletivo** (Astrologia Mundial + Arcano do poder/bastidores)
   2. **Finanças, Trabalho & Prosperidade** (estratégia, contratos, riscos e oportunidades)
@@ -50,7 +50,7 @@ Fechar cada previsão com **1 ação concreta** herdada da feitiçaria ibérica 
 
 ## 2. Grade Editorial Semanal Sustentável (YouTube + TikTok + Facebook)
 
-| Dia | Vídeo Curto Diário (45–60s — YT Shorts + TikTok + FB Reels) | Vídeo Longo YouTube (8–15 min) |
+| Dia | Vídeo Curto Diário (até 2 min — YT Shorts + TikTok + FB) | Vídeo Longo YouTube (até 18 min) |
 | :--- | :--- | :--- |
 | **Segunda (Lua)** | Previsão do Dia: Pulso Semanal + **Família & Emoções** (Lua + Baralho Cigano) | — |
 | **Terça (Marte)** | Previsão do Dia: **Política, Mundo & Cortes Necessários** (Marte/Trânsitos + Tarot) | — |
